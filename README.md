@@ -4,4 +4,6 @@ Syarat seleksi beasiswa GenBI Sumsel.
 
 # How to Run
 -npm install
--npm run dev
+```
+npm run build
+
